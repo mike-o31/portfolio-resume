@@ -1,26 +1,25 @@
 body::before {
-    display: block;
-    content: '';
-    height: 100px
+	display: block;
+	content: '';
+	height: 100px;
 }
 
 .navbar {
-    opacity: 0.98;
+	opacity: 0.98;
 }
 
 .picture {
-    max-width: 100%;
+	max-width: 100%;
 }
 
 .link {
-    text-decoration: none;
+	text-decoration: none;
 }
 
 .screenshot {
-    max-width: 100%;
-    border-top-left-radius: 0.2rem;
-    border-top-right-radius: 0.2rem;
-    border-bottom-left-radius: 0.2rem;
-    border-bottom-right-radius: 0.2rem;
+	max-width: 100%;
+	border-top-left-radius: 0.2rem;
+	border-top-right-radius: 0.2rem;
+	border-bottom-left-radius: 0.2rem;
+	border-bottom-right-radius: 0.2rem;
 }
-
